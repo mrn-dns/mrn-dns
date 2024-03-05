@@ -3,12 +3,6 @@
 <h3 align="center">SETU student pursuing a BSc in Applied Computing (Computer Forensics and Cybersecurity).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrn-dns&label=Profile%20views&color=0e75b6&style=flat" alt="mrn-dns" /> </p>
 
-- 🌱 I’m currently learning **NoSQL,React,MongoDB**
-
-- 💬 Ask me about **C++,HTML,CSS**
-
-- 📫 How to reach me **marincasdenis@yahoo.com**
-
 - ⚡ Fun fact **🤽‍♂️Once a professional water polo player!**
 
 <h3 align="left">Connect with me:</h3>
